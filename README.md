@@ -1,6 +1,6 @@
 # test_jsseq
 
 ```jsseq
-A->B: messsage
+A->B: message
 B->A: message
 ```
